@@ -29,8 +29,8 @@
     "expo-application": "^4.0.1"
   },
   "devDependencies": {
-    "expo": "^44.0.1",
-    "react": "17.0.1",
-    "react-native": "0.64.3"
+    "expo": "^41.0.1",
+    "react": "16.13.1",
+    "react-native": "0.63.4"
   }
 }
